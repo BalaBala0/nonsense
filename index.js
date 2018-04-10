@@ -1,1 +1,4 @@
-dddd
+function index() {
+    //nothing
+}
+index()
