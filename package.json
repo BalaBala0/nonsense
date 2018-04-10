@@ -1,0 +1,19 @@
+{
+  "name": "nonsense",
+  "version": "1.0.0",
+  "description": "nonsence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalaBala0/nonsense.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalaBala0/nonsense/issues"
+  },
+  "homepage": "https://github.com/BalaBala0/nonsense#readme"
+}
